@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: white;
+    background-color: rgb(225, 213, 235);
 }
 
 .top {
@@ -22,7 +22,7 @@ body {
     padding: 5px;
 }
 
-#one, #two, #three {
+.nav {
     padding:10px;
 }
 
@@ -41,8 +41,9 @@ header {
   
 }
 
-.firstsection {
+.firstsection, .secondsection{
     color:black;
+    padding-left: 50px;
 }
 
 .secondsection {
@@ -55,6 +56,10 @@ header {
 .sectionhead {
     color:purple;
     padding:15px 0px;
+    font-size: 25px;
+}
+.par{
+    font-size: 20px;
 }
 
 #catpicture {
