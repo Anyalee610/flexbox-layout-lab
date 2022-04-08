@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: beige;
+    background-color: white;
 }
 
 .top {
@@ -42,11 +42,11 @@ header {
 }
 
 .firstsection {
-    color:blue;
+    color:black;
 }
 
 .secondsection {
-     color:skyblue;
+     color:black;
      align-content:stretch;
      display:flex;
      flex-direction:column;
@@ -55,4 +55,8 @@ header {
 .sectionhead {
     color:purple;
     padding:15px 0px;
+}
+
+#catpicture {
+    border-radius: 10px;
 }
